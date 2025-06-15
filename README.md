@@ -11,3 +11,7 @@ Links To Important WriteUPs On CyberSecurity
 
 3. Hack This Site -A free, safe and legal training ground for hackers to test and expand their ethical hacking skills with challenges, CTFs, and more  https://www.hackthissite.org/
 
+<<<<<<< HEAD
+=======
+4. MitmProxy- (Intercepting Proxy)  is a powerful interactive HTTPS proxy used to intercept, inspect, modify, and replay web traffic. Official Docs: https://docs.mitmproxy.org/ 
+>>>>>>> d6d81e8755bc108b77e824c1d10b6a47fde853a4
