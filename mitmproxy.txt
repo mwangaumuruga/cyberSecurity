@@ -1,0 +1,71 @@
+===============================
+mitmproxy - Intercepting Proxy
+===============================
+
+DESCRIPTION:
+------------
+mitmproxy is a powerful interactive HTTPS proxy used to intercept, inspect, modify, and replay web traffic.
+
+INSTALLATION:
+
+# Or install via your package manager (Linux)
+sudo apt install mitmproxy
+
+BASIC USAGE:
+------------
+# Start mitmproxy in interactive mode
+mitmproxy
+
+# Start mitmdump (headless version of mitmproxy)
+mitmdump
+
+# Start mitmweb (web interface)
+mitmweb
+
+# Specify a custom port (e.g., 8080)
+mitmproxy -p 8080
+
+# Save traffic to a file
+mitmproxy -w output_file
+
+# Read traffic from a saved file
+mitmproxy -r output_file
+
+SSL/TLS:
+--------
+mitmproxy generates its own root certificate for HTTPS interception.
+
+To trust the mitmproxy certificate:
+1. Run mitmproxy.
+2. Visit `http://mitm.it` in your browser.
+3. Download and install the root certificate for your OS/browser.
+
+FILTERING:
+----------
+# Show only traffic matching a filter (example: host contains "google")
+mitmproxy -p 8080 -i google
+
+# Intercept requests/responses using inline scripts (e.g., Python scripts)
+mitmdump -s script.py
+
+COMMON SHORTCUTS (in mitmproxy interactive interface):
+------------------------------------------------------
+- `?` : Show help menu
+- `↑ ↓` : Navigate flows
+- `Enter` : View flow details
+- `a` : Accept intercepted request
+- `d` : Drop intercepted request
+- `r` : Replay request
+- `e` : Edit flow
+- `q` : Quit
+
+TIPS:
+-----
+- Useful for testing web app security, capturing API calls, modifying headers, and debugging mobile apps.
+- To intercept traffic from a phone, connect the phone to the same Wi-Fi and set its proxy to the mitmproxy IP and port.
+
+DOCUMENTATION:
+--------------
+Official Docs: https://docs.mitmproxy.org/
+
+
