@@ -1,14 +1,36 @@
-# CyberSecurity
-Links To Important WriteUPs On CyberSecurity
+# 🛡️ Quest To Pro Pen Testing
+
+## 🔍 A Personal Documentation And Knowledge Base in Cyber Security
+
+This repository serves as a personal knowledge base and documentation hub as I transition from a curious learner to a **Cyber Warrior**.
+
+It is dedicated to mastering the **tools and techniques** that form the art of **ethical hacking** — all in the name of securing digital frontiers.
 
 
-1.  Pen Test Monkey Link - Taking the monkey work out of pentesting
-    https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
 
-2. Metasploitable 2- A purposely vulnerable Linux virtual machine....primarily used for practicing penetration testing
-   https://sourceforge.net/projects/metasploitable/files/Metasploitable2/
-   https://information.rapid7.com/metasploitable-download.html
+### 🔥 Active Labs
+- **DVWA (Damn Vulnerable Web Application)**  
+  Practicing web exploitation techniques like XSS, SQL Injection, CSRF, File Upload vulnerabilities, and more.
 
-3. Hack This Site -A free, safe and legal training ground for hackers to test and expand their ethical hacking skills with challenges, CTFs, and more  https://www.hackthissite.org/
+### 📘 Reading
+- **Cyber JuJutsu**  
+  Exploring unconventional tactics, mindset frameworks, and red-team philosophy in cybersecurity.
 
-4. MitmProxy- (Intercepting Proxy)  is a powerful interactive HTTPS proxy used to intercept, inspect, modify, and replay web traffic. Official Docs: https://docs.mitmproxy.org/ 
+### 🎯 Daily Challenges
+- **Hack This Site**  
+  A classic platform to test real-world hacking scenarios and problem-solving through logic, web, and app security tasks.
+
+### 🗒️ Writing
+- Maintaining:
+  - Notes on each vulnerability and technique learned
+  - Blog-style writeups for each completed lab or challenge
+  - Git commits tracking every new exploit, fix, or update
+
+### 🎙️ Podcast Listening
+- **The Darknet Diaries**  
+  Listening regularly to true stories from the dark corners of the internet — to understand attacker psychology, learn from breaches, and stay inspired.
+
+---
+###Ethical Notice: This repository is meant purely for educational and ethical hacking purposes. Do not use these techniques on systems you do not own or have explicit permission to test. 
+##Happy Hacking! 🧑‍💻⚔️ @codekartel*
+
