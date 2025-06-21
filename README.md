@@ -13,7 +13,7 @@ It is dedicated to mastering the **tools and techniques** that form the art of *
   Practicing web exploitation techniques like XSS, SQL Injection, CSRF, File Upload vulnerabilities, and more.
 
 ### 📘 Reading
-- **Cyber JuJutsu**  
+- **Cyber JuJitsu**  
   Exploring unconventional tactics, mindset frameworks, and red-team philosophy in cybersecurity.
 
 ### 🎯 Daily Challenges
