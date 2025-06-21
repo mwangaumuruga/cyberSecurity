@@ -24,7 +24,23 @@ This page contains detailed writeups of all tasks and vulnerabilities tested in 
 - **Tools Used:** Unique Based On Method Vulnerability
 
 ## 🚧 To Do
+1.Brute Force
 
+2..Command Execution
+
+3.CSRF (Cross-Site Request Forgery)
+
+4.File Inclusion
+
+5.SQL Injection
+
+6.SQL Injection (Blind)
+
+7.Upload
+
+8.XSS (Reflected)
+
+9.XSS (Stored)
 
 
 ## 🔒 Disclaimer
