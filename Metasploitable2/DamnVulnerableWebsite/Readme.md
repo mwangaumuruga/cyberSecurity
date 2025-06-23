@@ -17,11 +17,47 @@ This page contains detailed writeups of all tasks and vulnerabilities tested in 
 
 ---
 
+
 ## 🧪 Lab Setup
 
-- **Platform:** VIRTUALBOX
-- **Difficulty Levels:** Low → Medium → High → Impossible
-- **Tools Used:** Unique Based On Method Vulnerability
+**Options of Setting up Damn Vulnerable Web Application**
+
+1. Docker (DVWA)
+Run DVWA in a container: sudo docker run -it -p 80:80 vulnerables/web-dvwa
+🔗 https://youtu.be/bdKjfmV4p9Y
+
+
+2. VirtualBox (DVWA or Metasploitable)
+Import prebuilt .ova VM in VirtualBox
+🔗 https://www.youtube.com/watch?v=5fJHf2nQzPA (DVWA)
+🔗 https://www.youtube.com/watch?v=HJ9-PZC7m1A (Metasploitable)
+
+
+3.  VMware/VirtualBox (Metasploitable from Rapid7)
+Download & run Metasploitable 2 from Rapid7 site
+🔗
+4. Manual Install (sudo method - DVWA)
+Install Apache, PHP, MySQL, then DVWA manually
+🔗 https://www.hackingarticles.in/install-dvwa-on-kali-linux/
+
+
+
+- **Tools Used:** 
+
+##Known DVWA vulnerabilities include:
+Brute-force
+Command injection
+Cross-Site Request Forgery (CSRF)
+File inclusion
+File upload
+Insecure CAPTCHA
+SQL injection
+Blind SQL injection
+Weak session IDs
+Cross-Site Scripting (XSS): DOM, Reflected, and Stored
+Content Security Policy (CSP) Bypass
+JavaScript
+Open HTTP redirect
 
 ## 🚧 To Do
 1.Brute Force
@@ -41,6 +77,18 @@ This page contains detailed writeups of all tasks and vulnerabilities tested in 
 8.XSS (Reflected)
 
 9.XSS (Stored)
+
+
+- **Difficulty Levels:** Low → Medium → High → Impossible
+
+On each level there are two buttons on the bottom right: “View Source” and “View Help.”
+
+With “View Source,” you can analyze the PHP source code of each lesson/challenge page to determine your attack strategy. 
+
+“View Help” explains your attack, why you’re hacking the page, and what to expect when changing the pentesting difficulty level. 
+
+If you highlight the text blanked out by the spoilers, you’ll get hints on how to crack that level.
+
 
 
 ## 🔒 Disclaimer
