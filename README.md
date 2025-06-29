@@ -1,4 +1,4 @@
-# 🛡️ Quest To Pro Pen Testing
+# 🛡️  Pro Pen Testing
 
 ## 🔍 A Personal Documentation And Knowledge Base in Cyber Security
 
