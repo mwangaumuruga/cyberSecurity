@@ -10,7 +10,7 @@ It is dedicated to mastering the **tools and techniques** that form the art of *
 
 ### 🔥 Active Labs
 - **DVWA (Damn Vulnerable Web Application)**  
-  Practicing web exploitation techniques like XSS, SQL Injection, CSRF, File Upload vulnerabilities, and more.
+  Practicing web exploitation
 
 ### 📘 Reading
 - **Cyber JuJitsu**  
