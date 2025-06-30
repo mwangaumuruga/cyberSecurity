@@ -18,7 +18,7 @@ It is dedicated to mastering the **tools and techniques** that form the art of *
 
 ### 🎯 Daily Challenges
 - **Hack This Site**  
-  A classic platform to test real-world hacking scenarios and problem-solving through logic, web, and app security tasks.
+  A classic platform to test  scenarios and problem-solving through logic, web, and app security tasks.
 
 ### 🗒️ Writing
 - Maintaining:
