@@ -90,5 +90,6 @@ If you highlight the text blanked out by the spoilers, you’ll get hints on how
 
 ## 🔒 Disclaimer
 > **Ethical Notice:** This repository is meant purely for **educational** and **ethical hacking** purposes. Do not use these techniques on systems you do not own or have explicit permission to test. 
-##Happy Hacking! 🧑‍💻⚔️ 
+##Happy Hacking! 🧑‍💻⚔️
+> ##
 @codekartel*
