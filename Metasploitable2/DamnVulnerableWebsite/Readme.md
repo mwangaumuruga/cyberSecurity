@@ -4,10 +4,7 @@
 - Practice web vulnerabilities in a controlled environment
 - Learn how attacks work and how to prevent them
 - Improve ethical hacking and penetration testing skills
-
----
 ## 🧠 Goal of This Repository
-
 This page contains detailed writeups of all tasks and vulnerabilities tested in DVWA, categorized by difficulty level and vulnerability type. Each writeup includes:
 
 - ✅ Step-by-step exploitation instructions
