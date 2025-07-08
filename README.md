@@ -1,7 +1,7 @@
 
 
 # CyberSecurity
-Links To Important WriteUPs On CyberSecurity
+Links To Important WriteUPs and Resourcesw On CyberSecurity
 
 
 1.  Pen Test Monkey Link - Taking the monkey work out of pentesting
