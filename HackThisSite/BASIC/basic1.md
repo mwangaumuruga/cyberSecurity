@@ -1,18 +1,24 @@
-Using your browser developer tools inspect  the html code as the hint tells
-you to view the code finding the password as  a comment on the source  code
-• Open Developer Tools: Right-click on any part of the webpage and
-select "Inspect Element" from the context menu. Alternatively, you can
-press Ctrl+Shift+I (Windows/Linux) or Cmd+Option+I (Mac) to open
-the developer tools.
-• Navigate to the HTML Code: In the Developer Tools panel that opens
-at the bottom or side of the browser, you'll see a tab with a < > symbol
-or the label "Inspector." Click on it to view the HTML code of the
-webpage.
-• Search for Passwords: Once you're viewing the HTML code, you can
-search for passwords by scrolling through the code or using the search
-function (usually activated by pressing Ctrl+F or Cmd+F). Look for
-HTML comments (<!-- -->), as passwords might be placed inside
-them. These comments won't be visible on the actual webpage, but
-they can contain important information.
-• Locatethe Password: If you find a comment containing a password,
-simply read it and note down the password
+# 🛠 CHALLANGE
+This basic mission is the first in a series that deals with client-side scripting. The password is hidden in the HTML source code. You must figure out the password and enter it.
+
+# 🎯 GOAL
+To find the Password 
+
+![Screenshot 2025-06-28 185031](https://github.com/user-attachments/assets/6cde7a60-56d6-4454-bd83-d54f4c0e34d3)
+
+
+# 🧠 APPROACH
+<br> Start by inspecting the website's HTML source code to check if the password is visible. </br> 
+<br>Begin by viewing the page source (Ctrl+U) or right click and inspect to examine the HTML for any embedded password or comment. </br>
+
+![Screenshot 2025-06-28 185123](https://github.com/user-attachments/assets/b4cba1dc-eba9-4adf-9668-1f76a2a5fc70)
+
+# Now press Ctrl + F and search for the keyword "pass" to locate the hidden password
+
+![Screenshot 2025-06-28 185112](https://github.com/user-attachments/assets/b3359fed-ed49-4270-a155-9f0093267058)
+
+# ✅ RESULT
+
+![Screenshot 2025-06-28 185143](https://github.com/user-attachments/assets/4a3d79ee-4f42-4945-9d6d-49ac9db40e9d)
+
+
