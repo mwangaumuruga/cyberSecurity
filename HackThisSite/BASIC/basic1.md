@@ -3,7 +3,7 @@ This basic mission is the first in a series that deals with client-side scriptin
 
 # 🎯 GOAL
 To find the Password 
-
+  
 ![Screenshot 2025-06-28 185031](https://github.com/user-attachments/assets/6cde7a60-56d6-4454-bd83-d54f4c0e34d3)
 
 
