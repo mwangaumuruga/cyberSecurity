@@ -1,6 +1,6 @@
 # CyberSecurity
 Links To Important WriteUPs and Resources On CyberSecurity
-1.   https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
+1.   
 
 2. Metasploitable 2- A purposely vulnerable Linux virtual machine....primarily used for practicing penetration testing    https://sourceforge.net/projects/metasploitable/files/Metasploitable2/
      https://information.rapid7.com/metasploitable-download.html
@@ -10,5 +10,4 @@ Links To Important WriteUPs and Resources On CyberSecurity
 6. Multillidae
 
 7.Pen Test Monkey Link - Taking the monkey work out of pentesting ,
-   
-
+https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
