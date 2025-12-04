@@ -9,7 +9,9 @@ ___
 
 #  Goal
 
-To locate the file containing the password, we must leverage Server Side Includes (SSI) for directory traversal, as standard path navigation is restricted.
+To locate the file containing the password, 
+
+we must leverage Server Side Includes (SSI) for directory traversal, as standard path navigation is restricted.
 
 ___
 
